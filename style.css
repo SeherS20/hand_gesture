@@ -1,0 +1,42 @@
+body
+{
+  color: white;
+  background: rgb(2,0,36);
+background: linear-gradient(180deg, rgb(51, 13, 90) 53%, rgb(106, 8, 75) 100%);
+font-family: 'Gloria Hallelujah', cursive;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+.click_buttons{
+  background-color: indigo;
+  color: aliceblue;
+  border-radius: 30px;
+  width: 200px;
+  letter-spacing: 3px;
+}
